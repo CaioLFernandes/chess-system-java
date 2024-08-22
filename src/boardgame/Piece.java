@@ -8,7 +8,6 @@ public class Piece {
 	public Piece(Board board) {
 		super();
 		this.board = board;
-
 	}
 
 	protected Board getBoard() {
